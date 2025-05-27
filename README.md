@@ -1,6 +1,6 @@
 # Face-Recognition-Using-Haar-cascade-and-LBPH
 
-# Facial Recognition CLI using OpenCV LBPH
+
 
 This is a simple command-line application for face-based user registration and login using OpenCV’s Local Binary Patterns Histograms (LBPH) recognizer.
 
